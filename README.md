@@ -14,4 +14,18 @@ Change the subheading so that it wraps within a column on the left that is 100 d
 Challenges
 
 Scrolling challenge is to add another UI element—a Button—to the LinearLayout inside the ScrollView so that it scrolls with the text. Use the text Add Comment for the Button.<br><br>
-<img src="/Screenshots/scroll challenge.png" width="250" height="450"/>
+<img src="/Screenshots/scroll challenge.png" width="250" height="450"/><br><br>
+Question 1
+
+How many views can you use within a ScrollView?
+-> One view or one view group
+
+Question 2
+
+Which XML attribute do you use in a LinearLayout to show views side by side?
+-> android:orientation="horizontal"
+
+Question 3
+
+Which XML attribute do you use to define the width of the LinearLayout inside the scrolling view?
+-> android:layout_width="match_parent"
